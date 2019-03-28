@@ -10,10 +10,10 @@
   ],
   "version": "0.2.3",
   "author": "Ross Johnson <ross@mazira.com>",
-  "contributors": ["Vamsi Aila <avamsi.web@gmail.com>"],
+  "contributors": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/vamsiaila/new-rackit"
+    "url": "http://github.com/rossj/rackit"
   },
   "main": "./lib/main.js",
   "scripts": {
